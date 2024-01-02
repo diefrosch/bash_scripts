@@ -9,7 +9,7 @@
 #   Version 1.0 2019-10-28 (non-interactive)                      #
 #   Version 1.1 2020-02-07 (fixed terminal size)                  #
 #   Version 1.2 2021-08-13 (auto detect terminal width)           #
-#   License: WGAS (Who Gives A Shit)                              #
+#   License: GPLv2                              #
 ## ------------------------------------------------------------- ##
 
 ## Variables and settings
