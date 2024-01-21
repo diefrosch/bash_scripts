@@ -6,8 +6,8 @@ Some random utility bash scripts.
 ### temp-graph.sh
 
 Plots CPU temperature data (or any simple time-stamped data)
-using gnuplot in console-only mode.  
-Partially based on:  
+using `gnuplot` in console-only mode.<br>
+Partially based on:<br>
 https://github.com/Apache-Labor/labor/blob/master/bin/arbigraph
 
 #### Usage
